@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Question 05:Generate the following message through browser's developer console:Hello...I can run JS through my web browser's console? </title>    
+</head>
+<body>
+
+    <script>  
+    alert("Hello...I can run JS through my web browser's console") 
+    </script>
+    
+</body>
+</html>

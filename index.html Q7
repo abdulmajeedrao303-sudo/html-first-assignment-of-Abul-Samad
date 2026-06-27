@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Question 7:Practice placement of <script></script> element in following sections of your project in exercise 6:
+        a.head
+        b.body(before your page's HTML)
+        c.body(inside your page's HTML)
+        d.body(after your page's HTML)</title>
+</head>
+a.
+<head>
+     <script>
+        alert("Welcome to my project")
+     </script>
+</head>
+b.
+<body>
+   
+    <script>
+        alert("Welcome to my project")
+    </script>
+
+    <h1>My project first page</h1>
+
+</body>
+c.
+<body>
+
+   <h1>Hello</h1>
+
+    <script>
+        alert("Welcome to my project")
+    </script>
+
+    <h2>My project first page</h2>
+    
+</body>
+d.
+<body>
+
+   <h1>Hello</h1>
+   <h2>Welcome</h2>
+
+    <script>
+        alert("Welcome to my project")
+    </script>
+
+</body>
+</html>

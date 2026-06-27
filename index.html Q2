@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>   
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Question 02:"Write a script to display following message on your web page:Error!Please enter a valid password?"</title>
+</head>
+<body>
+
+    <script>
+       alert("Error!Please enter a valid password.")
+    </script>
+    
+</body>
+</html>
